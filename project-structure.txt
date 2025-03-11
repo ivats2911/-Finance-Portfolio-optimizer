@@ -1,0 +1,17 @@
+portfolio_optimizer/
+│
+├── __init__.py                 # Makes portfolio_optimizer a Python package
+├── optimizer.py                # Main optimizer class
+├── data_manager.py             # Data fetching and processing
+├── strategies.py               # Optimization strategies
+├── risk_metrics.py             # Risk and performance metrics calculations
+├── visualizations.py           # Plotting and visualization functions
+├── market_simulator.py         # Market scenario simulation
+│
+├── examples/                   # Example scripts
+│   ├── __init__.py
+│   ├── basic_usage.py          # Basic usage example
+│   ├── efficient_frontier.py   # Efficient frontier example
+│   └── market_scenarios.py     # Market simulation example
+│
+└── README.md                   # Usage instructions and documentation

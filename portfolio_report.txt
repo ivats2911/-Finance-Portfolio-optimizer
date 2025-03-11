@@ -1,0 +1,38 @@
+PORTFOLIO PERFORMANCE REPORT
+==========================
+
+PERFORMANCE METRICS:
+Annual Return: 39.96%
+Annual Volatility: 23.75%
+Sharpe Ratio: 1.64
+Sortino Ratio: 2.33
+Calmar Ratio: 1.56
+Maximum Drawdown: -25.55%
+Value at Risk (95%): 2.01%
+Value at Risk (99%): 3.73%
+Conditional VaR (95%): 3.18%
+Best Return: 11.91%
+Worst Return: -11.23%
+Positive Returns Ratio: 56.30%
+
+PORTFOLIO ALLOCATION:
+AAPL: 0.00%
+MSFT: 0.00%
+AMZN: 0.00%
+GOOGL: 10.52%
+META: 0.00%
+BRK-B: 0.00%
+JNJ: 0.00%
+PG: 0.00%
+XOM: 0.00%
+JPM: 0.00%
+BAC: 0.00%
+V: 0.00%
+MA: 0.00%
+DIS: 0.00%
+NFLX: 28.24%
+TSLA: 27.65%
+NVDA: 5.27%
+HD: 0.00%
+VZ: 0.00%
+KO: 28.33%
