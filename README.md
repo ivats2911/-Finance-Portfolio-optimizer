@@ -27,7 +27,7 @@ A comprehensive framework for portfolio optimization, risk analysis, and perform
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio-optimizer.git
+git clone https://github.com/ivats2911/Finance-Portfolio-optimizer.git
 cd portfolio-optimizer
 
 # Install required packages
